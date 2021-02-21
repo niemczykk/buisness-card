@@ -1,0 +1,34 @@
+.contactCol {
+    position: relative;
+    margin: auto;
+    text-align: center;
+    height: 300px;
+}
+
+.contactRow {
+    position: relative;
+}
+
+.icon-contact {
+    margin-top: 0px;
+}
+
+.title-contact {
+    bottom: 20px;
+}
+
+.text-contact {
+    max-width: 400px;
+    margin-left: 50%;
+    margin-bottom: 40px;
+    transform: translate(-50%, 0);
+}
+
+.btn-contact {
+    border: 2px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 10px;
+    margin-bottom: 150px;
+    color: black;
+}

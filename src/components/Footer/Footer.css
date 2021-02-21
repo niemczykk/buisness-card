@@ -1,0 +1,27 @@
+.footerCol {
+    background-color: black;
+    height: 150px;
+    color: white;
+    text-align: center;
+}
+
+.footerRow {
+    justify-content: center;
+}
+
+.img-footer {
+    width: 26px;
+    margin: auto;
+}
+
+.text-footer {
+    margin: auto;
+    margin-left: 5px;
+}
+
+.author {
+    display: grid;
+    grid-template-columns: 26px 250px;
+    margin: auto;
+    justify-content: center;
+}

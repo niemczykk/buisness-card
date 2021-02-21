@@ -1,0 +1,38 @@
+.hobbiesCol {
+    background-color: black;
+    position: relative;
+    height: 300px;
+    text-align: center;
+    color: white;
+}
+
+.hobbiesRow {
+    position: relative;
+    top: 50px;
+}
+
+img {
+    margin-bottom: 10px;
+}
+
+.inner-row {
+    display: grid;
+    grid-template-columns: 200px 250px 100px;
+    /* grid-column-gap: 40px; */
+    grid-column: 30px;
+    position: relative;
+    justify-items: center;
+    justify-content: center;
+}
+
+.inner-item {
+    width: 200px;
+}
+
+.title-hobbies {
+    margin-bottom: 15px;
+}
+
+.icon-title {
+    font-size: 24px;
+}

@@ -1,0 +1,26 @@
+.welcomeCol {
+    background-image: url('../Images/swiss-mountains-1362975-1920x1440.jpg');
+    background-repeat: round;
+    background-size: 100% 100%;
+    color: white;
+    width: 100%;
+    min-height: 1000px;
+    height: auto;
+    align-items: center;
+    position: relative;
+}
+
+.welcomeRow {
+    width: 100%;
+    min-height: 100px;
+    text-align: center;
+    padding: 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.message {
+    margin-bottom: 10px;
+}

@@ -1,0 +1,28 @@
+.experienceCol {
+    height: 750px;
+    background-color: white;
+    position: relative;
+    text-align: center;
+}
+
+.experienceRow {
+    position: relative;
+    top: 50px;
+}
+
+img {
+    margin-top: 30px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.title-experience {
+    margin-top: 50px;
+}
+
+.text-experience {
+    font-size: 24px;
+    max-width: 650px;
+    margin: auto;
+    margin-top: 10px;
+}
